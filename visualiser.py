@@ -170,7 +170,7 @@ def completed_sort(data):
         pygame.time.delay(25)
         pygame.display.update()
     pygame.time.delay(200)
-
+    
 def draw_window(data:list, red_rect:int, blue_rect:int, num_elements:int, comparisons:int, swaps:int, 
                 x12_button=x12_button, x2_button=x2_button, x4_button=x4_button, x8_button=x8_button):
     
