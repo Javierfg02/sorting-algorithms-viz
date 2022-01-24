@@ -30,7 +30,7 @@ Instructions on how to use the program are displayed on the program itself. Belo
 | S          | Begins sorting the data set using the selection sort |
 | I          | Begins sorting the data set using the insertion sort |
 
-On the top left corner of the window there are also a set of buttons. Clicking on any button will multiply the speed of sorting by the number displayed on the button. Note that clicking on a button multiple times will not keep multiplying the speed as when a button is cliked the speed is first set to the original sorting speed and then multiplied by the number on the button. That is to say that the maximum possible speed is times 8.
+On the top left corner of the window there are also some buttons. Clicking on any button will multiply the speed of sorting by the number displayed on the button. Note that clicking on a button multiple times will not keep multiplying the speed as when a button is cliked the speed is first set to the original sorting speed and then multiplied by the number on the button. That is to say that the maximum possible speed is times 8.
 
 ## Extensions
 
