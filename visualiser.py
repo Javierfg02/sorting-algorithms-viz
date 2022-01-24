@@ -66,7 +66,7 @@ class Button():
         self.delay = delay # each button will change the speed of the sorting when clicked
 
     def draw_button(self, win):
-        pygame.draw.rect(win, self.color, (self.x, self.y, self.width, self.height), 0)
+        pygame.draw.rect(win, self.color, (self.x, self.y, self.width, self.height))
         
         if self.text != '':
             font = pygame.font.SysFont('comicsans', 15)
