@@ -40,3 +40,7 @@ The program can be extended and ameliorated in many ways. Below are some which I
 - Make the insertion sort visualisation more clear by showing how the selected rectangle moves down the data set into its place rather than somply highlighting the rectangles down the data set. Ideally, the insertion sort visualisation should look something like [this](https://www.youtube.com/watch?v=8oJS1BMKE64).
 - Add sounds to the sorting where the frequency of the sound depends on the height of the bars.
 - At the moment, while the program is sorting it disables all other actions from taking place. While this avoids many bugs, it sometimes mean the program has to be forcibly stopped. It would be useful if all actions where allowed while sorting.
+
+## Contact me
+
+You can always shoot me an email at javier.fergarcia@gmail.com :).
