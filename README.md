@@ -5,7 +5,7 @@
 
 This project visualises various in place sorting algorithms. At the moment, the algorithms that can be visualised are the bubble, selection and insertion sorts.
 
-The program will sort an unordered, randomly generated dataset of a given size by ascending order, and it will do so utilising the sorting algorithm as instructed. THe program will also visualise the steps of each sorting algorithm so that one can understand how each sorting algorithm works.
+The program will sort an unordered, randomly generated dataset of a given size by ascending order, and it will do so utilising the sorting algorithm as instructed. The program will also visualise the steps of each sorting algorithm so that one can understand how each sorting algorithm works.
 
 ### In more detail
 
