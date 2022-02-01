@@ -11,7 +11,7 @@ The program will sort an unordered, randomly generated dataset of a given size b
 
 #### **Colors**
 
-The program will generate an unsorted dataset of specified lenght and represent each number in this dataset using a bar, where the height of the bar is proportional to the magnitude of the number. When the sorting begins, the program will highlight two rectangles, one in blue and one in red. Since at the moment all three sorting algorithms require a nested loop, the rectangle in blue shows the element of the first loop which is the element which the algorithm is currently sorting, and the red rectangle shows the element of the inner loop, which is the element that is being compared to the element of the blue rectangle.
+The program will generate an unsorted dataset of specified length and represent each number in this dataset using a bar, where the height of the bar is proportional to the magnitude of the number. When the sorting begins, the program will highlight two rectangles, one in blue and one in red. Since at the moment all three sorting algorithms require a nested loop, the rectangle in blue shows the element of the first loop which is the element which the algorithm is currently sorting, and the red rectangle shows the element of the inner loop, which is the element that is being compared to the element of the blue rectangle.
 
 #### **Time**
 
